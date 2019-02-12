@@ -30,7 +30,7 @@ function draw() {
 	fill(0, 0, 220); //Blue
 	rect(0, middleLineY, leftLineX, width*.2);
 
-	fill(250, 21, 94); //Yellow
+	fill(250, 250, 94); //Yellow
 	rect(rightLineX, bottomLineY, width*.0875, height*.1);
 
 	stroke(0); //draw black
